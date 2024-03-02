@@ -123,7 +123,7 @@ export default function Page() {
                 <p className="text-start text-base font-light">
                   Following our strategy meeting, we initiated a training and
                   review session focused on Next.js, the chosen technology
-                  essential for our project's advancement.<br></br>
+                  essential for our project&apos;s advancement.<br></br>
                   <br></br> This session was designed to equip our team with the
                   necessary knowledge and practical skills to fully utilize
                   Next.js. We explored its key features, such as server-side
@@ -135,7 +135,7 @@ export default function Page() {
                 <h1 className="text-3xl text-start">February 23</h1>
                 <p className="text-start text-base font-light">
                   Continuing with our Next.js training, we delved deeper into
-                  its advanced features and best practices to further our team's
+                  its advanced features and best practices to further our team&apos;s
                   expertise. <br></br>
                   <br></br>The next phase of our training emphasized building
                   dynamic applications, exploring API routes for server-side
@@ -150,8 +150,8 @@ export default function Page() {
                   directed our efforts towards enhancing the UI design of the
                   admin dashboard—a crucial component I had the opportunity to
                   develop. <br></br><br></br>This phase was all about refining the dashboard to
-                  ensure it wasn't just functional but also intuitive and
-                  user-friendly for system administrators. With the dashboard's
+                  ensure it wasn&apos;t just functional but also intuitive and
+                  user-friendly for system administrators. With the dashboard&apos;s
                   foundational structure already in place, the focus shifted to
                   optimizing the user interface for better administrative
                   efficiency. <br></br><br></br>This involved a detailed review of the dashboard
