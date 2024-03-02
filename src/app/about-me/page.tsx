@@ -50,7 +50,7 @@ export default function Page() {
             <p className="text-2xl text-center">A bit about myself</p>
             <div className="flex gap-10">
               <h1 className="text-7xl">Hello!</h1>
-              <h1 className="text-7xl font-semibold">I'm Ysl Ron Hepos</h1>
+              <h1 className="text-7xl font-semibold">I&apos;m Ysl Ron Hepos</h1>
             </div>
           </div>
         </div>
