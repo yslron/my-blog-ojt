@@ -39,7 +39,7 @@ export default function Home() {
               About Me
               <span className="block max-w-0 group-hover:max-w-full transition-all duration-300 h-0.5 bg-white"></span>
             </a>
-            <a className="group transition duration-300" href="">
+            <a className="group transition duration-300" href="/ojt-blog">
               OJT Blog
               <span className="block max-w-0 group-hover:max-w-full transition-all duration-300 h-0.5 bg-white"></span>
             </a>
